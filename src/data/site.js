@@ -5,7 +5,7 @@ export const site = {
     email: "enlin@scu.edu",
     photo: "/photo.jpg", // null hides it
     about: [
-        `Hi! I'm an M.S. student in Artificial Intelligence at <a href="https://www.scu.edu" target="_blank" rel="noopener">Santa Clara University</a>, advised by Professor <a href="https://yi-fang.org/" target="_blank" rel="noopener">Yi Fang</a> and Professor <a href="https://hyang1999.github.io/" target="_blank" rel="noopener">Hoeseok Yang</a>. I'm currently a visiting researcher at <a href="https://www.docomoinnovations.com/" target="_blank" rel="noopener">DOCOMO Innovations</a>.`,
+        `I'm an M.S. student in Artificial Intelligence at <a href="https://www.scu.edu" target="_blank" rel="noopener">Santa Clara University</a>, advised by Professor <a href="https://yi-fang.org/" target="_blank" rel="noopener">Yi Fang</a> and Professor <a href="https://hyang1999.github.io/" target="_blank" rel="noopener">Hoeseok Yang</a>. I'm currently a visiting researcher at <a href="https://www.docomoinnovations.com/" target="_blank" rel="noopener">DOCOMO Innovations</a>.`,
         `My research interests are in machine learning and LLMs, particularly how models and LLM-driven systems learn from feedback, and how to make them efficient and reliable.`,
     ],
     links: [
