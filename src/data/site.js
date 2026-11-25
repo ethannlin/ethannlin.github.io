@@ -1,4 +1,3 @@
-// All site content lives here. About text = Ethan's own words (placeholders marked [ ]).
 export const site = {
     name: "Ethan Lin",
     role: "M.S. in AI, Santa Clara University",
@@ -28,7 +27,7 @@ export const site = {
             kind: "journal",
             title: "ACAS: Adaptive Control of Inference‑Time Activation Sparsity for On‑Device LLMs",
             authors: "Ethan Lin, Youngmin Yi, Hoeseok Yang",
-            venue: "IEEE TCAD 2026 (to appear)",
+            venue: "IEEE TCAD 2026 (to appear), presented at CODES 2026",
             links: [
                 ["paper", "/acas-paper.pdf"],
                 ["code", "https://github.com/SCU-CoAI/acas"],
@@ -90,7 +89,7 @@ export const site = {
             "2026-27",
         ],
         [
-            "CSE Outstanding Senior Award (sole recipient)",
+            "Computer Science and Engineering Outstanding Senior Award (sole recipient)",
             "Santa Clara University",
             "2025",
         ],
