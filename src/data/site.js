@@ -41,10 +41,8 @@ export const site = {
             authors: "Ethan Lin, Jeromy Chang, Giuseppe Valenzise, Ying Liu",
             venue: "IEEE MMSP 2026 (to appear)",
             links: [
-                [
-                    "paper",
-                    "https://centralesupelec.hal.science/hal-05729521/document",
-                ],
+                ["paper", "https://centralesupelec.hal.science/hal-05729521/document"],
+                ["slides", "/lora-mic-slides.pdf"],
             ],
         },
         {
